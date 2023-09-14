@@ -1,1 +1,3 @@
 a. Project Manager. The Product Owner is responsible for managing projecs and deal with product backlogs.
+b. Scrum Master is the one who works more closely with the actual developers and helps manage technical issues that come up.
+The Produt Owners is more the visionary and decides one more big picture issues.
